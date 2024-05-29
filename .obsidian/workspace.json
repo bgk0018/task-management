@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "321d08ac56da7eef",
+        "id": "7aec65aed666d96b",
         "type": "tabs",
         "children": [
           {
-            "id": "c849bfb568c9e111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024-05-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e4ce7a6c0feec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Household/Household Area.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "647dbeb21f6c2205",
+            "id": "be3c269eafc4ac6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/project.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6591a13e5996904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/area.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-05-29.md",
+                "file": "Templates/area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-05-29.md",
+                "file": "Templates/area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,25 +138,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-05-29.md"
+                "file": "Templates/area.md"
               }
             }
           }
         ]
       },
       {
-        "id": "8a38858092dc2bb1",
+        "id": "361369a41d9e0c44",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a5ce44f49585e5",
+            "id": "c849bfb568c9e111",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Views/Tasks.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -189,33 +178,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c849bfb568c9e111",
+  "active": "b6591a13e5996904",
   "lastOpenFiles": [
-    "Projects/CX-5 Maintenance/CX-5 Maintenance Project.md",
-    "Views/Tasks.md",
+    "Foo Project.md",
+    "Templates/area.md",
+    "Templates/project.md",
     "Journal/2024-05-29.md",
-    "Steps.md",
     "Vault Reference.md",
+    "Resources/Household/Home Automation Software.md",
+    "Resources/Resource Reference.md",
+    "Areas/Household/Household Area.md",
+    "Areas/Household/Home Automation Ideas.md",
+    "Areas/Area Reference.md",
+    "Views/Tasks.md",
+    "Projects/CX-5 Maintenance/CX-5 Maintenance Project.md",
+    "Steps.md",
     "Views",
     "Archive/Archive Reference.md",
     "Archive/2023",
     "Projects/House Sitting/House Sitting Project.md",
     "Projects/House Sitting",
-    "Resources/Resource Reference.md",
-    "Resources/Household/Home Automation Software.md",
-    "Areas/Household/Home Automation Ideas.md",
     "Templates/idea.md",
     "Templates/note.md",
     "Resources/Household",
-    "Areas/Household/Household Area.md",
     "Areas/Household/Considerations for Selecting a Car.md",
-    "Areas/Area Reference.md",
     "Projects/Project Reference.md",
     "Templates/meeting.md",
     "Templates/reference.md",
-    "Templates/project.md",
     "Templates/daily.md",
-    "Templates/area.md",
     "Projects/CX-5 Maintenance/Maintenance Log.md",
     "Projects/CX-5 Maintenance/2015-cx-5-maintenance-schedule.pdf",
     "Areas/Household",
